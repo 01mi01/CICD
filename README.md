@@ -1,3 +1,3 @@
 # JsfDemoApp
 
-Pipeline 
+Maven Pipeline 
