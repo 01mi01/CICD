@@ -1,5 +1,3 @@
 # JsfDemoApp
 
 Maven Pipeline 
-
-Actions
